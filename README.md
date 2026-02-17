@@ -1,7 +1,7 @@
 # Hi 👋 I'm Shanaka
 
 🎓 Final Year IT Undergraduate  
-💻 Full-Stack Developer (React • Node • Firebase)  
+💻 Full-Stack Developer (React • Node.js • Firebase)  
 🚀 Interested in building real products & startup ideas
 
 ## 🔧 Tech Stack
