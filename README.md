@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Shanaka
 
-<!--
-**Shanaka21/Shanaka21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year IT Undergraduate  
+💻 Full-Stack Developer (React • Node • Firebase)  
+🚀 Interested in building real products & startup ideas
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Frontend
+- React
+- JavaScript
+- Tailwind CSS
+- HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend
+- Node.js
+- Express
+- Firebase
+
+Currently Building
+- 📍 Smart Public Transport Tracking System
+- 🧠 LoadSense – Lifestyle Monitoring Web App
+
+
+
+## 🎯 Goals (2026)
+- Get Software Engineering Internship
+- Build revenue generating SaaS product
+- Improve system design & backend architecture
+
+---
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/shanaka-rathnayaka-04316027a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
